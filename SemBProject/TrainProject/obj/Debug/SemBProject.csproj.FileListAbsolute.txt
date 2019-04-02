@@ -1,0 +1,10 @@
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\bin\Debug\TrainProject.exe.config
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\bin\Debug\TrainProject.exe
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\bin\Debug\TrainProject.pdb
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\SemBProject.csprojAssemblyReference.cache
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\TrainProject.Properties.Resources.resources
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\SemBProject.csproj.GenerateResource.cache
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\SemBProject.csproj.CoreCompileInputs.cache
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\TrainProject.exe
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\TrainProject.pdb
+E:\1 курс\Algoritmy\TrainProject\SemBProject\TrainProject\obj\Debug\SemB.Form1.resources
